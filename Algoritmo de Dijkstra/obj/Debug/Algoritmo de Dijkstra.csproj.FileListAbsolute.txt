@@ -1,0 +1,20 @@
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\bin\Debug\Algoritmo de Dijkstra.exe.config
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\bin\Debug\Algoritmo de Dijkstra.exe
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\bin\Debug\Algoritmo de Dijkstra.pdb
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.csprojAssemblyReference.cache
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo_de_Dijkstra.Form1.resources
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo_de_Dijkstra.Properties.Resources.resources
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.csproj.GenerateResource.cache
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.exe
+C:\Users\camae\source\repos\Algoritmo de Dijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\bin\Debug\Algoritmo de Dijkstra.exe.config
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\bin\Debug\Algoritmo de Dijkstra.exe
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\bin\Debug\Algoritmo de Dijkstra.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo_de_Dijkstra.Form1.resources
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo_de_Dijkstra.Properties.Resources.resources
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.csproj.GenerateResource.cache
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.exe
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\LMD_AlgoritmoDeDijkstra\Algoritmo de Dijkstra\obj\Debug\Algoritmo de Dijkstra.csprojAssemblyReference.cache
